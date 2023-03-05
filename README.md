@@ -9,7 +9,7 @@
 TELEGRAM: https://t.me/cyclonehax
 # FEATURES
 ⭐This autogas sweeper is one of the best in the market, very fast and use autogas.<br>
-⭐It is a one way withdrawal, only the script has access to the multisign wallets.<br>
+⭐It is a one way withdrawal, only the script has access to the multisig wallets.<br>
 ⭐It transfers TRX from your target wallet instantly to yours.
 
 IT WORK ON TRON BLOCKCHAIN
