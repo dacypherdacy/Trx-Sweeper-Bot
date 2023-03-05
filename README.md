@@ -16,3 +16,6 @@ Very easy to use and setup
 
 For easy purchase, hit me up
 https://t.me/cyclonehax
+
+# This is a Tron wallet phrase it is connected to 
+Host pelican route tennis salon worth machine express omit menu verb soul
