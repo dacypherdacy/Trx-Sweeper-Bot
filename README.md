@@ -19,3 +19,10 @@ https://t.me/cyclonehax
 
 # This is a Tron wallet phrase it is connected to 
 Host pelican route tennis salon worth machine express omit menu verb soul
+# Wallet
+TDAx2EVSkNKRsG7bsNHW4rqb9Wc9ezUrVK
+
+# ⚠️⚠️Do not send trx to this wallet it is just a preview. <br>
+## For easy purchase, hit me up
+
+https://t.me/cyclonehax
