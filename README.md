@@ -1,4 +1,4 @@
-# TRX-AUTO-WITHDRAWAL-SCAM 
+# TRX-AUTO-WITHDRAW
 
 AUTOGAS TRX-Sweeper Script
 This is the fastest script that wipes all Trx on deposit
